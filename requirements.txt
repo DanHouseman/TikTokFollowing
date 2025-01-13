@@ -1,0 +1,2 @@
+# Core dependency for Playwright
+playwright>=1.30.0,<2.0.0
