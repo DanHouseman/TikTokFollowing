@@ -12,6 +12,8 @@ This repository contains an **asynchronous Playwright** script that:
 - **Saves everything** to `following_data.json`.
 - **Creates a local webpage** that loads `following_data.json` into a sortable, visual format (handled by `server.py` after scraping finishes).
 
+<img width="1195" alt="image" src="screenshot.png" />
+
 ## Features
 
 1. **Persistent Login**
