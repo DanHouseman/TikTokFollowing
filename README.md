@@ -46,7 +46,7 @@ Ensure that `server.py` has its own dependencies installed if it requires any.
 
 ```bash
 git clone https://github.com/DanHouseman/TikTokFollowing.git
-cd tiktok-following-scraper
+cd TikTokFollowing
 ```
 2. (Optional) Create a Virtual Environment
 
