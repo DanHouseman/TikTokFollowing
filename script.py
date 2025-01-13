@@ -285,7 +285,7 @@ async def main_async():
 
         # 8) Execute another script (server.py) after scraping finishes
         print("Now running server.py ...")
-        subprocess.run(["python", "server.py"])  # or ["python3", "server.py"] on some systems
+        subprocess.run(["python3.13", "server.py"])  # or ["python3", "server.py"] on some systems
 
         # Finally, close context
         await context.close()
